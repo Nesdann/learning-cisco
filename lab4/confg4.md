@@ -67,3 +67,10 @@ implement the necessary ACL rule.
 21, Test Co/sozication, ensure everything configured is working as expected.
 Subt
 
+conf ssh de sw l3
+control remoto de sw
+conf de routers (falta)
+falta conf de sw l3 
+conf de routers 
+conf de servidores
+etc...
