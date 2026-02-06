@@ -74,3 +74,24 @@ falta conf de sw l3
 conf de routers 
 conf de servidores
 etc...
+
+
+############ CONFIG STEPS ###############
+0. Netwok Design and beatufication.
+1. Basic settings to all devices plus ssh on the routers and 13 switches.
+2. VLANs assignment plus all access and trunk ports on 12 and 13 switches.
+Switchport security to server-side site department.
+4. Subnetting and IP addressing
+5. OSPF on the routers and 13 switches.
+6. Static IP address to serverRoom devices.
+7. DHCP server device configuratiuons.
+8. Inter-VLAN routing on the 13 switches plus ip dhcp helper addresses.
+9. Wireless network configurations.
+10. Site-to-site IPSec VPN
+11. Default static route
+12. PAT + Access Control List
+14. Verifying and testing configurations.
+
+
+
+
